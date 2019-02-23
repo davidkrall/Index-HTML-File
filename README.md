@@ -1,2 +1,2 @@
-# Index-HTML-File
+# IndexHTMLFile
 Repository to house the modified HTML file
